@@ -1,0 +1,3 @@
+Deliverable_ID,Requirement_ID,Criterion,Verification_Method,Result,Evidence,Defect_ID,Severity,Corrective_Action,Action_Owner,Due,Acceptance_Status
+DESIGN-PILOT,REQ-ACCESS-01,"Layout, navigation, contrast and alternative-text criteria",Design verification,,,,,,,,
+PORTAL-PILOT,REQ-ACCEPT-01,"Integration, user review and accessibility evidence available",Sponsor acceptance review,,,,,,,,

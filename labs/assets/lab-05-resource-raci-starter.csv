@@ -1,0 +1,5 @@
+Resource_Role,Affected_Work_Packages,Responsible,Accountable,Consulted,Informed,Capability_Needed,Planned_Effort_Days,Available_Effort_Days,Variance_Days,Conflict,Resolution_Option,Human_Decision
+Accessibility Specialist,"WP-03; WP-08",,,,,,5,3,,,,
+Integration Engineer,"WP-05; WP-07",,,,,,8,8,,,,
+Content Lead,"WP-02; WP-04",,,,,,6,4,,,,
+Support Lead,"WP-08; WP-09",,,,,,4,5,,,,
