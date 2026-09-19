@@ -1,0 +1,387 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 3 0 R 8 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 6106
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 758.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 22 Tf 26 TL 84.74417 0 Td (Activity 25 Instruction Manual) Tj T* -84.74417 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 737.8661 cm
+q
+.356863 .388235 .447059 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Activity 25 | Topic 03 | C013 | Version v1.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 704.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Purpose) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 670.8661 cm
+q
+BT 1 0 0 1 0 18.4 Tm 14 TL /F1 9.6 Tf .086275 .105882 .14902 rg (The final activity runs the end of the project lifecycle: processing a change request through integrated change) Tj T* (control, then closing the project and capturing lessons learned with GenAI) Tj (') Tj (s help.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 639.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Files used) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 620.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- activity-guide.md and activity-guide.pdf - brief and source instructions) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 600.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- prompts.pdf - reusable prompt and verification checklist) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 581.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- mock-data.xlsx - safe fictional project data for practice) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 550.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Expected output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 530.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (A processed change request with impact analysis, and a project closure report.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 499.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Before you begin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 479.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (1. Form the required group and assign one person to capture evidence.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 460.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (2. Open mock-data.xlsx and review the title, note and column headings.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 440.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (3. Open prompts.pdf beside your chosen GenAI tool. Do not upload confidential workplace data.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 409.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Detailed procedure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 376.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (1. In your group, raise a realistic change request against your project - a new regulatory requirement, or a) Tj T* 9 0 Td (stakeholder asking for an extra feature.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 343.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (2. Classify it correctly: is it corrective action, preventive action, defect repair, or a change to a baseline? Only the) Tj T* 9 0 Td (last requires a baseline update.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 310.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (3. Prompt GenAI: ') Tj (Analyse the impact of this change request on scope, schedule, cost, quality and risk. For each,) Tj T* 9 0 Td (state the impact and how confident you are in the estimate.) Tj (') Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 277.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (4. Check the impacts it forgot. It will usually cover scope, schedule and cost, and skip the knock-on effects on) Tj T* 9 0 Td (quality, risk, resources and stakeholder expectations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 231.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 31.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (5. Run it through integrated change control: raise the request, analyse the impacts, record it in the change log,) Tj T* 9 0 Td (take it to the Change Control Board for approval/deferral/rejection, and communicate the outcome back to the) Tj T* (requester.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 198.3661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (6. Now open https://alfredang.github.io/digitaltransformation/ - one member enters their name and clicks ') Tj (Create) Tj T* 9 0 Td (New Roadmap) Tj (') Tj (; the others join with the Roadmap ID or QR code from the Invite button.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 165.3661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (7. Add your project) Tj (') Tj (s remaining initiatives \(title, phase, status, priority, owner, impact 1-10, effort 1-10, start month,) Tj T* 9 0 Td (duration\). Prompt GenAI to propose the impact and effort scores, then adjust them as a group.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 132.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (8. Read the Impact vs Effort matrix. Identify what falls in Quick Wins versus Thankless, and add your top risks to) Tj T* 9 0 Td -0.075325 Tw (the Risk Register tab with likelihood, impact and mitigation. Add two or three KPIs with current and target values.) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 57.02362 85.86614 cm
+q
+BT 1 0 0 1 15 31.1 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (9. Move to closure. Prompt GenAI: ') Tj (Draft a project closure report covering: acceptance of deliverables, transition) Tj T* 9 0 Td (and handover requirements, contract closure, lessons learned on scope changes, schedule impacts, risks and) Tj T* (issues, stakeholder and vendor relationships, and recommendations.) Tj (') Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+9 0 obj
+<<
+/Length 3303
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 744.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 31.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (10. Complete the closure checklist: deliverables accepted against acceptance criteria, product transitioned with) Tj T* 9 0 Td (training and hypercare, contracts and accounts closed, project information archived to organisational process) Tj T* (assets, resources released.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 711.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (11. Use the Export button in the Roadmap Studio to capture your roadmap, and share your closure report with the) Tj T* 9 0 Td (class.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 680.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Use the supplied mock data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 646.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Copy only the rows needed for the current step and tell the model the data is fictional. If the model changes an) Tj T* (identifier or number, reject the change and rerun with an explicit preserve-values instruction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 615.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Quality control) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 582.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td -0.037498 Tw (- Your change request is correctly classified with impacts on all five dimensions, it has been through the CCB path,) Tj T* 0 Tw 9 0 Td (and your closure report covers acceptance, transition, contracts, archiving and resource release.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 562.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- Compare the first AI draft with the final human-corrected artifact and retain both as evidence.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 543.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- Label assumptions, decisions, owners and dates so another project manager can audit the result.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 512.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Troubleshooting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 464.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 32.4 Tm /F1 9.6 Tf 14 TL (If the response is generic, add the project objective, constraints, audience and required columns. If arithmetic is) Tj T* (inconsistent, request formulas and substitutions, then calculate independently. If a source cannot be opened,) Tj T* (remove the claim or replace it with verified evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 433.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Submission evidence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 399.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Submit the completed project artifact, the final prompt, a short critique of the AI output, and any screenshot or) Tj T* (exported file required by the activity.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+10 0 obj
+<<
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Author (Tertiary Infotech Academy Pte Ltd)
+/CreationDate (D\07220260912165424\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260912165424\05308\04700\047)
+/Subject (\050unspecified\051)
+/Title (Activity 25 Instruction Manual)
+/Trapped (\057False)
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000129 00000 n 
+0000000328 00000 n 
+0000006486 00000 n 
+0000006527 00000 n 
+0000006634 00000 n 
+0000006746 00000 n 
+0000006945 00000 n 
+0000010300 00000 n 
+trailer
+<<
+/Size 11
+/Root 1 0 R
+/Info 10 0 R
+>>
+startxref
+10659
+%%EOF

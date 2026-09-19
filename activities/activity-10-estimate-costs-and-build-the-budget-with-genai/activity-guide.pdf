@@ -1,0 +1,343 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 3 0 R 9 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5921
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 732.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 30 Tm /F2 22 Tf 26 TL 30.33817 0 Td (Activity 10 Estimate Costs and Build the) Tj T* 111.881 0 Td (Budget with GenAI) Tj T* -142.2192 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 711.8661 cm
+q
+.356863 .388235 .447059 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Activity 10 | Topic 01 | C013 | Version v1.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 655.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 32.4 Tm /F1 9.6 Tf 14 TL (Course: Generative AI for Project Management \(C013\) Topic 01: Project Initiation and) Tj T* -0.004832 Tw (Planning with GenAI Learning outcome: LO1/LO2 - Produce a defensible cost baseline with appropriate reserves.) Tj T* 0 Tw (Tools: GenAI tool | Cost Benefit Analysis.xlsx | your WBS from Activity 8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 624.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 590.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (You will apply the four estimating techniques to the same work, compare what each produces, and assemble a) Tj T* (cost baseline with contingency and management reserves.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 559.8661 cm
+q
+BT 1 0 0 1 0 4 Tm 19 TL /F2 15 Tf .086275 .105882 .14902 rg (What you) Tj (') Tj (ll produce) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 539.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (A cost baseline built bottom-up from your WBS, with reserves and a documented estimating basis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 508.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Activity files) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 489.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Activity guide PDF]\(./activity-guide.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 469.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Prompt sheet]\(./prompts.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 450.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Detailed instruction manual]\(./instruction-manual.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 430.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Mock data workbook]\(./mock-data.xlsx\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 399.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Core prompt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 381.8661 cm
+q
+.043137 .070588 .12549 rg
+n 0 -8 1050.6 28 re f*
+Q
+q
+.839216 .894118 1 rg
+BT 1 0 0 1 8 3.5 Tm /F3 8.5 Tf 12 TL (Estimate the cost of each work package in this WBS using bottom-up estimating. Show assumed rates and quantities separately from totals, then add contingency and management reserves without double counting.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 350.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 317.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (1. Using the WBS from Activity 8, prompt GenAI: ') Tj (Estimate the cost of each work package in this WBS using) Tj T* 9 0 Td (bottom-up estimating. Show your assumed rates and quantities separately from the totals.) Tj (') Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 284.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (2. Ask for the same total three more ways: analogous \() Tj (') Tj (estimate from a similar past project) Tj (') Tj (\), parametric \() Tj (') Tj (use a) Tj T* 9 0 Td (rate per unit) Tj (') Tj (\) and three-point \() Tj (') Tj (give optimistic, most likely and pessimistic) Tj (') Tj (\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 251.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td -0.021841 Tw (3. Compute the three-point estimate yourself using Ce = \(Co + 4Cm + Cp\) / 6 and compare all four figures. Explain) Tj T* 0 Tw 9 0 Td (to your group why they differ and which you would defend to a sponsor.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 218.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (4. Challenge the assumed rates. Prompt: ') Tj (Which of these rates did you assume rather than know? Mark each with) Tj T* 9 0 Td ([ASSUMPTION].) Tj (' Replace them with rates from your own organisation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 199.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (5. Roll the work package costs up to a project total - this is your cost baseline before reserves.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 166.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (6. Add a contingency reserve for the identified risks you will quantify in Topic 3, and a management reserve for) Tj T* 9 0 Td (unforeseen in-scope work. Prompt GenAI to suggest a percentage and to justify it, then decide your own figure.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 133.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (7. Confirm you can state the difference: contingency reserve is inside the cost baseline for known risks;) Tj T* 9 0 Td (management reserve sits outside it for unknown work.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 113.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (8. Share your baseline and the reserve percentages you chose, with your justification.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 82.86614 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Check your work) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 1096
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 756.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Check: You have one cost baseline built bottom-up, four comparable estimates for the same work, no unmarked) Tj T* (assumed rates, and a stated contingency and management reserve you can justify.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 744.8661 cm
+Q
+q
+1 0 0 1 57.02362 710.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Remember: GenAI gives you a fast first draft. Check every figure, source and assumption before the output) Tj T* (leaves your hands - you remain accountable for it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 689.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (\251 2026 Tertiary Infotech Academy Pte Ltd. All rights reserved.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+11 0 obj
+<<
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Author (Tertiary Infotech Academy Pte Ltd)
+/CreationDate (D\07220260912165424\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260912165424\05308\04700\047)
+/Subject (\050unspecified\051)
+/Title (Activity 10 Estimate Costs and Build the Budget with GenAI)
+/Trapped (\057False)
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000129 00000 n 
+0000000328 00000 n 
+0000006301 00000 n 
+0000006352 00000 n 
+0000006459 00000 n 
+0000006571 00000 n 
+0000006676 00000 n 
+0000006876 00000 n 
+0000008025 00000 n 
+trailer
+<<
+/Size 12
+/Root 1 0 R
+/Info 11 0 R
+>>
+startxref
+8412
+%%EOF

@@ -1,0 +1,346 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 3 0 R 9 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5898
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 732.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 30 Tm /F2 22 Tf 26 TL 21.17517 0 Td (Activity 9 Build the Schedule and Find the) Tj T* 94.743 0 Td (Critical Path with GenAI) Tj T* -115.9182 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 711.8661 cm
+q
+.356863 .388235 .447059 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Activity 9 | Topic 01 | C013 | Version v1.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 655.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 32.4 Tm /F1 9.6 Tf 14 TL (Course: Generative AI for Project Management \(C013\) Topic 01: Project Initiation and) Tj T* (Planning with GenAI Learning outcome: LO1 - Sequence activities, estimate durations and identify the critical) Tj T* (path. Tools: GenAI tool | Gantt Chart Template.xlsx | Schedule Network Diagram.xlsx) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 624.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 590.8661 cm
+q
+BT 1 0 0 1 0 18.4 Tm 14 TL /F1 9.6 Tf .086275 .105882 .14902 rg (You will turn your work packages into a sequenced, estimated schedule, draw the network diagram, and compute) Tj T* (the critical path - then check whether GenAI) Tj (') Tj (s arithmetic can be trusted.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 559.8661 cm
+q
+BT 1 0 0 1 0 4 Tm 19 TL /F2 15 Tf .086275 .105882 .14902 rg (What you) Tj (') Tj (ll produce) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 539.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (A Gantt chart, a schedule network diagram and a calculated critical path.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 508.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Activity files) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 489.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Activity guide PDF]\(./activity-guide.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 469.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Prompt sheet]\(./prompts.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 450.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Detailed instruction manual]\(./instruction-manual.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 430.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Mock data workbook]\(./mock-data.xlsx\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 399.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Core prompt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 381.8661 cm
+q
+.043137 .070588 .12549 rg
+n 0 -8 1035.3 28 re f*
+Q
+q
+.839216 .894118 1 rg
+BT 1 0 0 1 8 3.5 Tm /F3 8.5 Tf 12 TL (Using the task data provided, propose a project schedule for building a CRM system. Preserve the stated dependencies, identify the critical path and show your forward-pass and backward-pass calculations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 350.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 317.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (1. In your group, prompt GenAI: ') Tj (Generate a list of tasks with estimated durations for building a CRM system over) Tj T* 9 0 Td (8 weeks.) Tj (' Open ') Tj (Gantt Chart Template.xlsx) Tj (') Tj (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 284.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (2. Enter the tasks and durations, then add dependencies. Classify each dependency as Mandatory, Discretionary,) Tj T* 9 0 Td (External or Internal - GenAI will not do this correctly for your context.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 251.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (3. Apply three-point estimating to your five most uncertain tasks. Prompt: ') Tj (For each task give an optimistic, most) Tj T* 9 0 Td (likely and pessimistic duration.) Tj (' Compute the PERT estimate yourself: \(O + 4M + P\) / 6.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 218.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (4. Compare the PERT figure with GenAI) Tj (') Tj (s single-point estimate. Note how much optimism was hidden in the) Tj T* 9 0 Td (original number.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 185.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (5. Open ') Tj (Schedule Network Diagram.xlsx) Tj (') Tj (. Prompt: ') Tj (List 10 project tasks with durations and dependencies for) Tj T* 9 0 Td (developing an internal helpdesk ticketing system.) Tj (') Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 152.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td -0.028078 Tw 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (6. Enter activities, durations and dependencies, then perform the forward and backward pass to find each activity) Tj (') Tj (s) Tj T* 0 Tw 9 0 Td (float.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 133.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (7. Determine the critical path - the sequence with zero float - and calculate the total project duration.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 100.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (8. Now verify GenAI: ask it to compute the critical path for the same network, and compare with your manual) Tj T* 9 0 Td (answer. Where they differ, work out which is right and why.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 80.86614 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (9. Share your critical path and total duration with the class.) Tj T* 9 0 Td ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 1217
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 765.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Check your work) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 731.8661 cm
+q
+BT 1 0 0 1 0 18.4 Tm 14 TL /F1 9.6 Tf .086275 .105882 .14902 rg (Check: You can state the critical path, the total duration and the float on at least one non-critical activity, and you) Tj T* (have checked GenAI) Tj (') Tj (s computed path against your own.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 719.8661 cm
+Q
+q
+1 0 0 1 57.02362 685.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Remember: GenAI gives you a fast first draft. Check every figure, source and assumption before the output) Tj T* (leaves your hands - you remain accountable for it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 664.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (\251 2026 Tertiary Infotech Academy Pte Ltd. All rights reserved.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+11 0 obj
+<<
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Author (Tertiary Infotech Academy Pte Ltd)
+/CreationDate (D\07220260912165424\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260912165424\05308\04700\047)
+/Subject (\050unspecified\051)
+/Title (Activity 9 Build the Schedule and Find the Critical Path with GenAI)
+/Trapped (\057False)
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000129 00000 n 
+0000000328 00000 n 
+0000006278 00000 n 
+0000006329 00000 n 
+0000006436 00000 n 
+0000006548 00000 n 
+0000006653 00000 n 
+0000006853 00000 n 
+0000008123 00000 n 
+trailer
+<<
+/Size 12
+/Root 1 0 R
+/Info 11 0 R
+>>
+startxref
+8519
+%%EOF

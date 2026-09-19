@@ -1,0 +1,368 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 3 0 R 8 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5787
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 758.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 22 Tf 26 TL 90.86017 0 Td (Activity 1 Instruction Manual) Tj T* -90.86017 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 737.8661 cm
+q
+.356863 .388235 .447059 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Activity 1 | Topic 01 | C013 | Version v1.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 704.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Purpose) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 656.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 32.4 Tm /F1 9.6 Tf 14 TL (Work through the ten prompting patterns on a project of your own. You will see the same question answered) Tj T* (badly by a vague prompt and well by a structured one, and you will keep a personal prompt library for the rest of) Tj T* (the course.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 625.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Files used) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 606.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- activity-guide.md and activity-guide.pdf - brief and source instructions) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 586.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- prompts.pdf - reusable prompt and verification checklist) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 567.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- mock-data.xlsx - safe fictional project data for practice) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 536.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Expected output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 516.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (A personal prompt library of 10 tested prompts, each with the output it produced and your critique.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 485.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Before you begin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 465.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (1. Form the required group and assign one person to capture evidence.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 446.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (2. Open mock-data.xlsx and review the title, note and column headings.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 426.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (3. Open prompts.pdf beside your chosen GenAI tool. Do not upload confidential workplace data.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 395.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Detailed procedure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 362.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (1. Open your preferred GenAI tool \(ChatGPT, Claude, Gemini or Copilot\) and sign in. Open the Project Manager) Tj T* 9 0 Td (Buddy GPT in a second tab: https://chatgpt.com/g/g-hUcEmp6Rp-project-manager-buddy-project-management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 329.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (2. Choose a real project from your own workplace - one you know well enough to judge whether the AI output is) Tj T* 9 0 Td (sensible. Write down its objective, budget range and timeline in one sentence each.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 296.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (3. Start with a deliberately vague prompt: ') Tj (Help me with my project.) Tj (' Note how generic the answer is. This is your) Tj T* 9 0 Td (baseline.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 250.3661 cm
+q
+BT 1 0 0 1 15 31.1 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (4. Now apply the Persona pattern: ') Tj (Act as a stakeholder of the project. Perform an assessment of the project) Tj T* 9 0 Td (charter and provide a list of recommendations to improve scope clarity and completeness.) Tj (' Compare against the) Tj T* (baseline.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 217.3661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (5. Apply the Flipped Interaction pattern so the AI interviews you: ') Tj (Ask me questions one at a time to prepare for a) Tj T* 9 0 Td (stakeholder update on [your project].) Tj (' Answer at least five questions and note which gap it exposed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 184.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (6. Apply the Cognitive Verifier pattern to a complex question about your project - one that needs several) Tj T* 9 0 Td (sub-answers combined. Observe how it decomposes the question.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 151.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (7. Apply the Fact Check List pattern to a question that depends on external industry data. Verify at least two of the) Tj T* 9 0 Td (sources it cites actually exist and say what it claims.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 118.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (8. Record each prompt, the output and a one-line critique in your prompt library. Mark any output that was) Tj T* 9 0 Td (confidently wrong - this is the habit that protects you all course.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 87.36614 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Use the supplied mock data) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+9 0 obj
+<<
+/Length 2456
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 756.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Copy only the rows needed for the current step and tell the model the data is fictional. If the model changes an) Tj T* (identifier or number, reject the change and rerun with an explicit preserve-values instruction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 725.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Quality control) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 692.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- You have 10 prompts in your library, each with output and a critique, and you can state one concrete case where) Tj T* 9 0 Td (GenAI produced a plausible but wrong answer that you caught.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 673.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- Compare the first AI draft with the final human-corrected artifact and retain both as evidence.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 653.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- Label assumptions, decisions, owners and dates so another project manager can audit the result.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 622.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Troubleshooting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 574.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 32.4 Tm /F1 9.6 Tf 14 TL (If the response is generic, add the project objective, constraints, audience and required columns. If arithmetic is) Tj T* (inconsistent, request formulas and substitutions, then calculate independently. If a source cannot be opened,) Tj T* (remove the claim or replace it with verified evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 543.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Submission evidence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 509.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Submit the completed project artifact, the final prompt, a short critique of the AI output, and any screenshot or) Tj T* (exported file required by the activity.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+10 0 obj
+<<
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Author (Tertiary Infotech Academy Pte Ltd)
+/CreationDate (D\07220260912165424\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260912165424\05308\04700\047)
+/Subject (\050unspecified\051)
+/Title (Activity 1 Instruction Manual)
+/Trapped (\057False)
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000129 00000 n 
+0000000328 00000 n 
+0000006167 00000 n 
+0000006208 00000 n 
+0000006315 00000 n 
+0000006427 00000 n 
+0000006626 00000 n 
+0000009134 00000 n 
+trailer
+<<
+/Size 11
+/Root 1 0 R
+/Info 10 0 R
+>>
+startxref
+9492
+%%EOF

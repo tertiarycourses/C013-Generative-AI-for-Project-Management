@@ -1,0 +1,354 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 3 0 R 10 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 6193
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 758.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 22 Tf 26 TL 10.15317 0 Td (Activity 18 Identify Project Risks with GenAI) Tj T* -10.15317 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 737.8661 cm
+q
+.356863 .388235 .447059 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Activity 18 | Topic 03 | C013 | Version v1.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 681.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 32.4 Tm /F1 9.6 Tf 14 TL (Course: Generative AI for Project Management \(C013\) Topic 03: Managing Project Risks) Tj T* (with GenAI Learning outcome: LO3 - Anticipate potential risks to project delivery \(A3\). Tools: GenAI tool | Project) Tj T* (Manager Buddy GPT | Risk Register template) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 650.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 616.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (GenAI is genuinely excellent at risk identification - it will suggest risks your team would never think of. It is) Tj T* (correspondingly poor at knowing which of them matter to you. You will use both facts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 585.8661 cm
+q
+BT 1 0 0 1 0 4 Tm 19 TL /F2 15 Tf .086275 .105882 .14902 rg (What you) Tj (') Tj (ll produce) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 565.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (A populated risk register with risks sourced from GenAI and from your team.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 534.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Activity files) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 515.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Activity guide PDF]\(./activity-guide.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 495.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Prompt sheet]\(./prompts.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 476.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Detailed instruction manual]\(./instruction-manual.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 456.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Mock data workbook]\(./mock-data.xlsx\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 425.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Core prompt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 407.8661 cm
+q
+.043137 .070588 .12549 rg
+n 0 -8 1167.9 28 re f*
+Q
+q
+.839216 .894118 1 rg
+BT 1 0 0 1 8 3.5 Tm /F3 8.5 Tf 12 TL (Act as an expert project manager in the [industry] working on a [project type]. Use the supplied project facts to draft a risk register covering cause, event, effect, category, owner and evidence. Separate facts from assumptions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 376.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 343.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td -0.085913 Tw (1. In your group, spend five minutes brainstorming risks to your project WITHOUT any AI. Write them down - this is) Tj T* 0 Tw 9 0 Td (your baseline and you will compare against it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 270.3661 cm
+q
+BT 1 0 0 1 15 58.1 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (2. Now prompt GenAI with the Risk Matrix Template pattern: ') Tj (Imagine you are an expert project manager in the) Tj T* 9 0 Td ([Industry], focusing on [Project type] projects. Develop a comprehensive risk matrix. For each risk include Risk) Tj T* (name, Description, Level of impact \(high/medium/low\) and Likelihood \(high/medium/low\). Cover budget,) Tj T* (schedule, technology, regulatory, resource, scope creep, stakeholder, data security, quality and external) Tj T* (dependency categories. Output as a table.) Tj (') Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 237.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (3. Compare against your manual list. Count how many risks the AI found that your team missed - typically it will be) Tj T* 9 0 Td (more than half.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 204.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (4. Now find the opposite: which risks did YOUR team identify that the AI missed? These are almost always the) Tj T* 9 0 Td (organisation-specific ones, and they are usually the ones that actually materialise.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 171.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (5. Use the Risk Breakdown Structure as a checklist to find further gaps - work down from high-level categories) Tj T* 9 0 Td (\(External, Organisational, Technical, Project Management\) to specific risks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 124.8661 cm
+q
+BT 1 0 0 1 15 31.1 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (6. For each risk, confirm it is written as a proper risk statement: cause ) Tj /F4 9.4 Tf 13.5 TL (\256) Tj /F1 9.4 Tf 13.5 TL ( risk event ) Tj /F4 9.4 Tf 13.5 TL (\256) Tj /F1 9.4 Tf 13.5 TL ( effect. ') Tj (The vendor may be) Tj T* 9 0 Td (late) Tj (' is not enough; ') Tj (Because the vendor has one integration engineer, their resource may be unavailable in) Tj T* (December, delaying UAT by two weeks) Tj (' is.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 91.86614 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (7. Distinguish risks from issues as you go: risks are future and may be positive or negative and go in the risk) Tj T* 9 0 Td (register; issues are present, always negative, and go in the issue log.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 72.36614 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (8. Assign an owner to every risk and share your register with the class.) Tj T* 9 0 Td ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
+/F4 9 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Symbol
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 1324
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 765.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Check your work) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 731.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL -0.095063 Tw (Check: Your register has risks from both sources, every entry is written as cause ) Tj /F4 9.6 Tf 14 TL (\256) Tj /F1 9.6 Tf 14 TL ( event ) Tj /F4 9.6 Tf 14 TL (\256) Tj /F1 9.6 Tf 14 TL ( effect with an owner,) Tj T* 0 Tw (and you can name one risk your team found that the AI missed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 719.8661 cm
+Q
+q
+1 0 0 1 57.02362 685.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Remember: GenAI gives you a fast first draft. Check every figure, source and assumption before the output) Tj T* (leaves your hands - you remain accountable for it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 664.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (\251 2026 Tertiary Infotech Academy Pte Ltd. All rights reserved.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+12 0 obj
+<<
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Author (Tertiary Infotech Academy Pte Ltd)
+/CreationDate (D\07220260912165424\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260912165424\05308\04700\047)
+/Subject (\050unspecified\051)
+/Title (Activity 18 Identify Project Risks with GenAI)
+/Trapped (\057False)
+>>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000130 00000 n 
+0000000329 00000 n 
+0000006574 00000 n 
+0000006635 00000 n 
+0000006742 00000 n 
+0000006854 00000 n 
+0000006959 00000 n 
+0000007036 00000 n 
+0000007237 00000 n 
+0000008614 00000 n 
+trailer
+<<
+/Size 13
+/Root 1 0 R
+/Info 12 0 R
+>>
+startxref
+8988
+%%EOF

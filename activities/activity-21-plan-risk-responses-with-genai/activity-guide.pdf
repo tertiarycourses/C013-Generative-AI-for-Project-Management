@@ -1,0 +1,350 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 3 0 R 9 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 6140
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 758.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 22 Tf 26 TL 10.75817 0 Td (Activity 21 Plan Risk Responses with GenAI) Tj T* -10.75817 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 737.8661 cm
+q
+.356863 .388235 .447059 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Activity 21 | Topic 03 | C013 | Version v1.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 681.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 32.4 Tm /F1 9.6 Tf 14 TL (Course: Generative AI for Project Management \(C013\) Topic 03: Managing Project Risks) Tj T* (with GenAI Learning outcome: LO3 - Devise risk mitigation measures to ensure project success \(A4\). Tools:) Tj T* (GenAI tool | your risk register from Activities 18-19) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 650.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 616.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (A risk register with no responses is a list of things you will be surprised by. You will plan a response for every) Tj T* (priority risk and check for the second-order effects that responses create.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 585.8661 cm
+q
+BT 1 0 0 1 0 4 Tm 19 TL /F2 15 Tf .086275 .105882 .14902 rg (What you) Tj (') Tj (ll produce) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 565.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (A response plan for every priority risk, with owners, triggers and fallback plans.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 534.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Activity files) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 515.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Activity guide PDF]\(./activity-guide.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 495.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Prompt sheet]\(./prompts.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 476.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Detailed instruction manual]\(./instruction-manual.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 456.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Mock data workbook]\(./mock-data.xlsx\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 425.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Core prompt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 407.8661 cm
+q
+.043137 .070588 .12549 rg
+n 0 -8 1065.9 28 re f*
+Q
+q
+.839216 .894118 1 rg
+BT 1 0 0 1 8 3.5 Tm /F3 8.5 Tf 12 TL (For each priority risk [paste], recommend one primary response strategy from avoid, transfer, mitigate, accept, escalate, exploit, share or enhance. Give the action, owner, trigger, fallback and response cost.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 376.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 343.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (1. Confirm the eight response strategies. For threats: Avoid, Transfer, Mitigate, Accept. For opportunities: Exploit,) Tj T* 9 0 Td (Share, Enhance, Accept. Escalate applies to both when the risk is outside your authority.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 297.3661 cm
+q
+BT 1 0 0 1 15 31.1 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (2. Prompt GenAI: ') Tj (For each of these priority risks [paste], recommend a response strategy from avoid, transfer,) Tj T* 9 0 Td (mitigate, accept, escalate, exploit, share or enhance. Give the specific action, an owner role, the trigger) Tj T* (condition, and the estimated cost of the response.) Tj (') Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 264.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (3. Audit the strategy names. GenAI routinely labels a mitigation as an avoidance - avoiding a risk means) Tj T* 9 0 Td (eliminating the cause entirely, usually by changing the plan, not by reducing the likelihood.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 217.8661 cm
+q
+BT 1 0 0 1 15 31.1 Tm -9 0 Td -0.099543 Tw 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (4. Check the cost logic: a response costing more than the risk exposure it removes is a bad response. Prompt: ') Tj (For) Tj T* 0 Tw 9 0 Td (each response, compare its cost against the risk exposure \(probability x impact\). Flag any response that costs) Tj T* (more than the exposure.) Tj (') Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 184.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (5. Identify SECONDARY risks - new risks created by your responses. Prompt: ') Tj (What new risks does each of these) Tj T* 9 0 Td (responses introduce?) Tj (' Transferring risk to a vendor, for instance, creates vendor dependency risk.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 151.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (6. Identify RESIDUAL risk - what remains after the response is implemented. Every accepted residual risk needs a) Tj T* 9 0 Td (contingency plan and a contingency reserve.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 132.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (7. Write a fallback plan for your top three risks: what you do if the primary response fails.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 99.36614 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (8. Define the trigger condition for each response - the observable signal that tells you to act. A response with no) Tj T* 9 0 Td (trigger is never implemented in time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 79.86614 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (9. Update your register and share your top three responses with their triggers and fallbacks.) Tj T* 9 0 Td ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 1207
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 765.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Check your work) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 731.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Check: Every priority risk has a correctly-named strategy, an owner, an observable trigger, an identified) Tj T* (secondary and residual risk, and your top three have fallback plans.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 719.8661 cm
+Q
+q
+1 0 0 1 57.02362 685.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Remember: GenAI gives you a fast first draft. Check every figure, source and assumption before the output) Tj T* (leaves your hands - you remain accountable for it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 664.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (\251 2026 Tertiary Infotech Academy Pte Ltd. All rights reserved.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+11 0 obj
+<<
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Author (Tertiary Infotech Academy Pte Ltd)
+/CreationDate (D\07220260912165424\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260912165424\05308\04700\047)
+/Subject (\050unspecified\051)
+/Title (Activity 21 Plan Risk Responses with GenAI)
+/Trapped (\057False)
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000129 00000 n 
+0000000328 00000 n 
+0000006520 00000 n 
+0000006571 00000 n 
+0000006678 00000 n 
+0000006790 00000 n 
+0000006895 00000 n 
+0000007095 00000 n 
+0000008355 00000 n 
+trailer
+<<
+/Size 12
+/Root 1 0 R
+/Info 11 0 R
+>>
+startxref
+8726
+%%EOF

@@ -1,0 +1,368 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 3 0 R 8 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5731
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 758.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 22 Tf 26 TL 84.74417 0 Td (Activity 15 Instruction Manual) Tj T* -84.74417 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 737.8661 cm
+q
+.356863 .388235 .447059 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Activity 15 | Topic 02 | C013 | Version v1.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 704.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Purpose) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 670.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (This is the heart of LO2. A resource is over-allocated and the budget is under pressure - you will use GenAI to) Tj T* (generate genuine alternatives, evaluate the trade-offs, and defend the option you choose.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 639.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Files used) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 620.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- activity-guide.md and activity-guide.pdf - brief and source instructions) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 600.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- prompts.pdf - reusable prompt and verification checklist) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 581.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- mock-data.xlsx - safe fictional project data for practice) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 550.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Expected output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 530.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (A resource optimisation decision with a documented trade-off analysis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 499.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Before you begin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 479.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (1. Form the required group and assign one person to capture evidence.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 460.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (2. Open mock-data.xlsx and review the title, note and column headings.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 440.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (3. Open prompts.pdf beside your chosen GenAI tool. Do not upload confidential workplace data.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 409.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Detailed procedure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 376.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (1. Take your schedule from Activity 9 and deliberately create a problem: assign one person to two activities) Tj T* 9 0 Td (running in the same period, and cut the budget by 15%.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 330.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 31.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (2. Confirm the two techniques before prompting: resource LEVELLING adjusts the schedule to fix over-allocation) Tj T* 9 0 Td (and may move the critical path; resource SMOOTHING adjusts only within available float, so the critical path) Tj T* (does not change.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 283.8661 cm
+q
+BT 1 0 0 1 15 31.1 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (3. Prompt with the Alternative Approaches pattern: ') Tj (I have an over-allocated resource on these activities [paste]) Tj T* 9 0 Td (and a 15% budget cut. Suggest at least three options - including resource levelling, resource smoothing,) Tj T* (crashing and fast tracking. Compare pros, cons, cost impact and schedule impact in a table.) Tj (') Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 250.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (4. Check each option against the definitions. GenAI frequently confuses levelling with smoothing and describes) Tj T* 9 0 Td (crashing without noting it only works on the critical path.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 217.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (5. For any crashing option, verify it targets a critical path activity - crashing a non-critical activity buys you nothing.) Tj T* 9 0 Td (For fast tracking, identify the rework risk it creates.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 184.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (6. Apply the Cognitive Verifier pattern: ') Tj (Break down which option gives the best schedule outcome for the least) Tj T* 9 0 Td (cost increase and the least added risk, then combine into a recommendation.) Tj (') Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 151.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (7. Make your group) Tj (') Tj (s decision, adjust the Gantt chart accordingly, and write three sentences justifying it to a) Tj T* 9 0 Td (sponsor.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 118.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (8. Present your recommendation and state one thing GenAI got wrong about levelling, smoothing, crashing or fast) Tj T* 9 0 Td (tracking.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 87.86614 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Use the supplied mock data) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+9 0 obj
+<<
+/Length 2443
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 756.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Copy only the rows needed for the current step and tell the model the data is fictional. If the model changes an) Tj T* (identifier or number, reject the change and rerun with an explicit preserve-values instruction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 725.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Quality control) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 692.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- Your chosen option is correctly named, crashing \(if used\) targets the critical path, and you can justify the) Tj T* 9 0 Td (cost/schedule/risk trade-off in three sentences.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 673.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- Compare the first AI draft with the final human-corrected artifact and retain both as evidence.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 653.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- Label assumptions, decisions, owners and dates so another project manager can audit the result.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 622.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Troubleshooting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 574.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 32.4 Tm /F1 9.6 Tf 14 TL (If the response is generic, add the project objective, constraints, audience and required columns. If arithmetic is) Tj T* (inconsistent, request formulas and substitutions, then calculate independently. If a source cannot be opened,) Tj T* (remove the claim or replace it with verified evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 543.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Submission evidence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 509.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Submit the completed project artifact, the final prompt, a short critique of the AI output, and any screenshot or) Tj T* (exported file required by the activity.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+10 0 obj
+<<
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Author (Tertiary Infotech Academy Pte Ltd)
+/CreationDate (D\07220260912165424\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260912165424\05308\04700\047)
+/Subject (\050unspecified\051)
+/Title (Activity 15 Instruction Manual)
+/Trapped (\057False)
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000129 00000 n 
+0000000328 00000 n 
+0000006111 00000 n 
+0000006152 00000 n 
+0000006259 00000 n 
+0000006371 00000 n 
+0000006570 00000 n 
+0000009065 00000 n 
+trailer
+<<
+/Size 11
+/Root 1 0 R
+/Info 10 0 R
+>>
+startxref
+9424
+%%EOF

@@ -1,0 +1,339 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 3 0 R 9 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5943
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 732.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 30 Tm /F2 22 Tf 26 TL 19.94317 0 Td (Activity 5 Assign Responsibilities with the) Tj T* 149.787 0 Td (RACI Ed-Tool) Tj T* -169.7302 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 711.8661 cm
+q
+.356863 .388235 .447059 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Activity 5 | Topic 01 | C013 | Version v1.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 655.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 32.4 Tm /F1 9.6 Tf 14 TL (Course: Generative AI for Project Management \(C013\) Topic 01: Project Initiation and) Tj T* (Planning with GenAI Learning outcome: LO1 - Allocate project responsibilities unambiguously using a) Tj T* (responsibility assignment matrix. Tools: RACI Collaborative Matrix \(alfredang.github.io/raci\) | GenAI tool) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 624.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 590.8661 cm
+q
+BT 1 0 0 1 0 18.4 Tm 14 TL /F1 9.6 Tf .086275 .105882 .14902 rg (A RACI matrix ends the ') Tj (I thought you were doing it) Tj (' conversation. You will build one collaboratively in a live) Tj T* (browser tool, using GenAI to propose the first pass.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 559.8661 cm
+q
+BT 1 0 0 1 0 4 Tm 19 TL /F2 15 Tf .086275 .105882 .14902 rg (What you) Tj (') Tj (ll produce) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 539.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (A completed RACI matrix for your project, agreed by the whole group.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 508.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Activity files) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 489.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Activity guide PDF]\(./activity-guide.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 469.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Prompt sheet]\(./prompts.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 450.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Detailed instruction manual]\(./instruction-manual.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 430.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Mock data workbook]\(./mock-data.xlsx\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 399.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Core prompt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 381.8661 cm
+q
+.043137 .070588 .12549 rg
+n 0 -8 938.4 28 re f*
+Q
+q
+.839216 .894118 1 rg
+BT 1 0 0 1 8 3.5 Tm /F3 8.5 Tf 12 TL (For a project with these activities [paste] and these roles [paste], propose a RACI assignment. Give exactly one Accountable role per activity and explain any ambiguous accountability.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 350.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 317.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (1. One member of your group opens https://alfredang.github.io/raci/ and clicks ') Tj (Create new board) Tj (') Tj (. Share the QR) Tj T* 9 0 Td (code or board URL from the ') Tj (Share) Tj (' button so everyone joins.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 271.3661 cm
+q
+BT 1 0 0 1 15 31.1 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (2. Note the board arrives pre-seeded with a GenAI project example - roles Solution Architect, Platform Team,) Tj T* 9 0 Td (Security & Compliance, Data/Knowledge Owner and five activities. Rename these to match your own project by) Tj T* (clicking each header.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 251.8661 cm
+q
+BT 1 0 0 1 15 4.1 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (3. Use ') Tj (+ Add role) Tj (' and ') Tj (+ Add activity) Tj (' to complete your grid. Aim for 4-6 roles and 6-8 activities.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 218.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (4. Prompt GenAI: ') Tj (For a project with these activities [paste] and these roles [paste], propose a RACI assignment.) Tj T* 9 0 Td (Give exactly one Accountable per activity and explain any activity where accountability is ambiguous.) Tj (') Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 185.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (5. Drag the A, R and C markers into the cells to match the AI) Tj (') Tj (s proposal. Note this tool uses A/R/C only - there is) Tj T* 9 0 Td (no Informed marker, so record ') Tj (informed) Tj (' parties in your communications plan instead.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 152.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (6. Now audit it as a group. Check the two rules that matter: exactly ONE Accountable per activity, and no role that) Tj T* 9 0 Td (is Accountable for everything. Click a marker to remove it, or drag it to the trash.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 119.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (7. Find at least one place where the AI) Tj (') Tj (s suggestion was wrong for your organisation and fix it. Ask why it got it) Tj T* 9 0 Td (wrong - usually it assumes a generic org structure.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 100.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (8. Screenshot the finished board \(the tool has no export\) and share it with the class.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 69.36614 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Check your work) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 1054
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 756.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Check: Every activity row has exactly one A, at least one R, and your group can justify each assignment; you) Tj T* (have a screenshot saved as evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 744.8661 cm
+Q
+q
+1 0 0 1 57.02362 710.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Remember: GenAI gives you a fast first draft. Check every figure, source and assumption before the output) Tj T* (leaves your hands - you remain accountable for it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 689.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (\251 2026 Tertiary Infotech Academy Pte Ltd. All rights reserved.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+11 0 obj
+<<
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Author (Tertiary Infotech Academy Pte Ltd)
+/CreationDate (D\07220260912165424\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260912165424\05308\04700\047)
+/Subject (\050unspecified\051)
+/Title (Activity 5 Assign Responsibilities with the RACI Ed\055Tool)
+/Trapped (\057False)
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000129 00000 n 
+0000000328 00000 n 
+0000006323 00000 n 
+0000006374 00000 n 
+0000006481 00000 n 
+0000006593 00000 n 
+0000006698 00000 n 
+0000006898 00000 n 
+0000008005 00000 n 
+trailer
+<<
+/Size 12
+/Root 1 0 R
+/Info 11 0 R
+>>
+startxref
+8393
+%%EOF

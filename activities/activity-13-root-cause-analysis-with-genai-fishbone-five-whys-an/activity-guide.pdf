@@ -1,0 +1,340 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 3 0 R 9 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5949
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 732.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 30 Tm /F2 22 Tf 26 TL 5.885173 0 Td (Activity 13 Root Cause Analysis with GenAI -) Tj T* 65.406 0 Td (Fishbone, Five Whys and Pareto) Tj T* -71.29117 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 711.8661 cm
+q
+.356863 .388235 .447059 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Activity 13 | Topic 02 | C013 | Version v1.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 655.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 32.4 Tm /F1 9.6 Tf 14 TL (Course: Generative AI for Project Management \(C013\) Topic 02: Project Execution and) Tj T* (Delivery with GenAI Learning outcome: LO2 - Diagnose the root cause of a delivery problem, not just its) Tj T* (symptoms. Tools: GenAI tool | Fishbone Diagram Template.pptx | Pareto Principle Template.xlsx) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 624.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 590.8661 cm
+q
+BT 1 0 0 1 0 18.4 Tm 14 TL /F1 9.6 Tf .086275 .105882 .14902 rg (When delivery goes wrong, the visible problem is rarely the real one. You will run three complementary) Tj T* (root-cause techniques on the same problem with GenAI) Tj (') Tj (s help and compare what each reveals.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 559.8661 cm
+q
+BT 1 0 0 1 0 4 Tm 19 TL /F2 15 Tf .086275 .105882 .14902 rg (What you) Tj (') Tj (ll produce) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 539.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (A fishbone diagram, a five-whys chain and a Pareto analysis of the same delivery problem.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 508.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Activity files) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 489.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Activity guide PDF]\(./activity-guide.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 469.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Prompt sheet]\(./prompts.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 450.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Detailed instruction manual]\(./instruction-manual.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 430.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Mock data workbook]\(./mock-data.xlsx\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 399.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Core prompt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 381.8661 cm
+q
+.043137 .070588 .12549 rg
+n 0 -8 1137.3 28 re f*
+Q
+q
+.839216 .894118 1 rg
+BT 1 0 0 1 8 3.5 Tm /F3 8.5 Tf 12 TL (Analyse the issue records provided and identify the most likely root causes of recurring project deadline misses. Produce a fishbone structure, a five-whys chain and a Pareto-ready category table without inventing evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 350.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 317.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (1. In your group, choose one real delivery problem - recurring missed deadlines, rework, defects escaping to) Tj T* 9 0 Td (production.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 284.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (2. Open ') Tj (Fishbone Diagram Template.pptx) Tj (') Tj (. Prompt GenAI: ') Tj (What are the possible root causes of recurring project) Tj T* 9 0 Td (deadline misses in IT infrastructure upgrades?) Tj (' - substituting your problem.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 251.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (3. Sort the suggested causes into the fishbone categories \(People, Process, Technology, Environment, Materials,) Tj T* 9 0 Td (Measurement\). Reclassify anything the AI put in the wrong bone.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 218.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td -0.078561 Tw 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (4. Add the causes GenAI could not know - the ones specific to your organisation) Tj (') Tj (s politics, tooling or history. These) Tj T* 0 Tw 9 0 Td (are usually the real ones.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 185.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (5. Now run Five Whys on the single most likely cause. Prompt: ') Tj (Apply the Five Whys method to [problem] to) Tj T* 9 0 Td (uncover the root cause and identify potential solutions.) Tj (') Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 152.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (6. Critique the chain. GenAI tends to produce a plausible but shallow chain that stops at ') Tj (insufficient planning) Tj (') Tj (.) Tj T* 9 0 Td (Push each ') Tj (why) Tj (' until you reach something you could actually change.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 119.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (7. Open ') Tj (Pareto Principle Template.xlsx) Tj (') Tj (. Prompt GenAI to generate a frequency count of defect or delay) Tj T* 9 0 Td (categories, enter them, and identify the vital few causing roughly 80% of the impact.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 100.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (8. Compare the three techniques: which surfaced the actionable cause? Share your conclusion with the class.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 69.36614 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Check your work) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 1087
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 756.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Check: You have all three artifacts for one problem, you added at least two organisation-specific causes the AI) Tj T* (missed, and your five-whys chain ends at something you can change.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 744.8661 cm
+Q
+q
+1 0 0 1 57.02362 710.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Remember: GenAI gives you a fast first draft. Check every figure, source and assumption before the output) Tj T* (leaves your hands - you remain accountable for it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 689.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (\251 2026 Tertiary Infotech Academy Pte Ltd. All rights reserved.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+11 0 obj
+<<
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Author (Tertiary Infotech Academy Pte Ltd)
+/CreationDate (D\07220260912165424\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260912165424\05308\04700\047)
+/Subject (\050unspecified\051)
+/Title (Activity 13 Root Cause Analysis with GenAI  \055  Fishbone\054 Five Whys and Pareto)
+/Trapped (\057False)
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000129 00000 n 
+0000000328 00000 n 
+0000006329 00000 n 
+0000006380 00000 n 
+0000006487 00000 n 
+0000006599 00000 n 
+0000006704 00000 n 
+0000006904 00000 n 
+0000008044 00000 n 
+trailer
+<<
+/Size 12
+/Root 1 0 R
+/Info 11 0 R
+>>
+startxref
+8456
+%%EOF

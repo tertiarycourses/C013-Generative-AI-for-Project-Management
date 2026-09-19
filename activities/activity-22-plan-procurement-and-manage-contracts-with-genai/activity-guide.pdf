@@ -1,0 +1,349 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 3 0 R 9 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5688
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 732.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 30 Tm /F2 22 Tf 26 TL 21.76917 0 Td (Activity 22 Plan Procurement and Manage) Tj T* 106.997 0 Td (Contracts with GenAI) Tj T* -128.7662 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 711.8661 cm
+q
+.356863 .388235 .447059 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Activity 22 | Topic 03 | C013 | Version v1.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 655.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 32.4 Tm /F1 9.6 Tf 14 TL (Course: Generative AI for Project Management \(C013\) Topic 03: Managing Project Risks) Tj T* (with GenAI Learning outcome: LO3 - Select the right contract type and manage procurement risk. Tools: GenAI) Tj T* (tool | Claude) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 624.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 590.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Procurement transfers risk - but only if you choose the right contract type. You will use GenAI to draft) Tj T* (procurement documents and to reason about where risk actually sits in each contract type.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 559.8661 cm
+q
+BT 1 0 0 1 0 4 Tm 19 TL /F2 15 Tf .086275 .105882 .14902 rg (What you) Tj (') Tj (ll produce) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 539.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (A procurement strategy with a justified contract type and a drafted RFP outline.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 508.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Activity files) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 489.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Activity guide PDF]\(./activity-guide.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 469.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Prompt sheet]\(./prompts.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 450.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Detailed instruction manual]\(./instruction-manual.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 430.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Mock data workbook]\(./mock-data.xlsx\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 399.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Core prompt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 381.8661 cm
+q
+.043137 .070588 .12549 rg
+n 0 -8 1106.7 28 re f*
+Q
+q
+.839216 .894118 1 rg
+BT 1 0 0 1 8 3.5 Tm /F3 8.5 Tf 12 TL (Compare Firm Fixed Price, Cost Plus Fixed Fee and Time and Materials for this procurement. State who carries cost-overrun risk, when each contract fits, and recommend one option using the supplied evaluation criteria.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 350.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 317.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (1. In your group, identify something your project must procure externally - a vendor, consultant, software or) Tj T* 9 0 Td (equipment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 271.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 31.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (2. Decide which bid document fits: RFI when you need information on what sellers can provide; RFP when the) Tj T* 9 0 Td (solution is not obvious and you need sellers to propose one; RFQ when you know exactly what you want and) Tj T* (need a price.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 238.3661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (3. Prompt GenAI: ') Tj (Draft an outline [RFI/RFP/RFQ] for [what you are procuring]. Include the scope of work,) Tj T* 9 0 Td (deliverables, evaluation criteria with weightings, and the submission requirements.) Tj (') Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 191.8661 cm
+q
+BT 1 0 0 1 15 31.1 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (4. Now the important question. Prompt: ') Tj (Compare Firm Fixed Price, Cost Plus Fixed Fee and Time and Materials) Tj T* 9 0 Td (for this procurement. For each, state who carries the risk of a cost overrun and under what circumstances it is) Tj T* (the right choice.) Tj (') Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 145.3661 cm
+q
+BT 1 0 0 1 15 31.1 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (5. Verify the risk logic yourself: fixed price puts overrun risk on the SELLER and suits well-defined scope; cost) Tj T* 9 0 Td (reimbursable puts it on the BUYER and suits changing work; T) Tj (&) Tj (M suits an undefined statement of work and) Tj T* (staff augmentation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 112.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (6. Choose your contract type and write two sentences justifying it in terms of who should carry the risk given how) Tj T* 9 0 Td (well you know the scope.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 65.86614 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 31.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (7. Prompt GenAI to list the contract components you must include: description of work, delivery schedule,) Tj T* 9 0 Td (responsibilities of both parties, price and payment terms, termination provisions, guarantees and warranties,) Tj T* (intellectual property, and security/confidentiality/data privacy.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 1809
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 757.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (8. Add a claims and dispute clause. Prompt: ') Tj (What should the claims process and alternative dispute resolution) Tj T* 9 0 Td -0.094133 Tw (clause say?) Tj (' Confirm you understand a claim arises when buyer and seller cannot agree that a change occurred.) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 57.02362 738.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (9. Share your contract type choice and your risk justification with the class.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 707.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Check your work) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 673.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Check: You have the right bid document type, a contract type justified by who should carry scope risk, and a) Tj T* (component checklist including IP, data privacy and dispute resolution.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 661.3661 cm
+Q
+q
+1 0 0 1 57.02362 627.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Remember: GenAI gives you a fast first draft. Check every figure, source and assumption before the output) Tj T* (leaves your hands - you remain accountable for it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 606.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (\251 2026 Tertiary Infotech Academy Pte Ltd. All rights reserved.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+11 0 obj
+<<
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Author (Tertiary Infotech Academy Pte Ltd)
+/CreationDate (D\07220260912165424\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260912165424\05308\04700\047)
+/Subject (\050unspecified\051)
+/Title (Activity 22 Plan Procurement and Manage Contracts with GenAI)
+/Trapped (\057False)
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000129 00000 n 
+0000000328 00000 n 
+0000006068 00000 n 
+0000006119 00000 n 
+0000006226 00000 n 
+0000006338 00000 n 
+0000006443 00000 n 
+0000006643 00000 n 
+0000008505 00000 n 
+trailer
+<<
+/Size 12
+/Root 1 0 R
+/Info 11 0 R
+>>
+startxref
+8894
+%%EOF

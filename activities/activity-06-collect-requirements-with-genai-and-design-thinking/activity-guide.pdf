@@ -1,0 +1,346 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 3 0 R 9 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5687
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 732.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 30 Tm /F2 22 Tf 26 TL 15.05917 0 Td (Activity 6 Collect Requirements with GenAI) Tj T* 117.37 0 Td (and Design Thinking) Tj T* -132.4292 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 711.8661 cm
+q
+.356863 .388235 .447059 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Activity 6 | Topic 01 | C013 | Version v1.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 641.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 46.4 Tm /F1 9.6 Tf 14 TL (Course: Generative AI for Project Management \(C013\) Topic 01: Project Initiation and) Tj T* (Planning with GenAI Learning outcome: LO1 - Elicit, structure and prioritise requirements using GenAI-supported) Tj T* (techniques. Tools: Design Thinking Studio \(alfredang.github.io/designthinking\) | GenAI tool | MoSCoW with) Tj T* (Sliders Template.xlsx) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 610.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 576.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Requirements gathering is where GenAI earns its keep. You will run brainstorming, affinity clustering and) Tj T* (prioritisation - using the Design Thinking Studio to structure the work and dot-vote as a group.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 545.8661 cm
+q
+BT 1 0 0 1 0 4 Tm 19 TL /F2 15 Tf .086275 .105882 .14902 rg (What you) Tj (') Tj (ll produce) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 525.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (A clustered, prioritised requirements set with a MoSCoW classification.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 494.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Activity files) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 475.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Activity guide PDF]\(./activity-guide.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 455.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Prompt sheet]\(./prompts.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 436.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Detailed instruction manual]\(./instruction-manual.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 416.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Mock data workbook]\(./mock-data.xlsx\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 385.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Core prompt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 367.8661 cm
+q
+.043137 .070588 .12549 rg
+n 0 -8 994.5 28 re f*
+Q
+q
+.839216 .894118 1 rg
+BT 1 0 0 1 8 3.5 Tm /F3 8.5 Tf 12 TL (Create three user personas and their top pain points for [your project's users]. Then list 15 to 20 ideas for solving the highest-priority pain point. Mark assumptions that require user research.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 336.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 303.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (1. One member opens https://alfredang.github.io/designthinking/ and clicks ') Tj (Create New Workspace) Tj (') Tj (. Everyone) Tj T* 9 0 Td (joins with the workspace code or QR, entering their display name.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 270.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (2. Go to stage 1, Empathize. Prompt GenAI: ') Tj (Create 3 user personas and their top pain points for [your project) Tj (') Tj (s) Tj T* 9 0 Td (users].) Tj (' Add each persona as a note in the User Personas section and each pain point under User Pain Points.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 237.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (3. Fill the Empathy Map quadrants - Says, Thinks, Does, Feels - for your primary persona, using GenAI to draft) Tj T* 9 0 Td (and your own judgement to correct.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 204.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (4. Move to stage 2, Define. Prompt: ') Tj (Write a clear problem statement and five How Might We questions for [the) Tj T* 9 0 Td (pain points above].) Tj (' Add these to the Problem Statement and How Might We Questions sections.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 158.3661 cm
+q
+BT 1 0 0 1 15 31.1 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (5. Move to stage 3, Ideate. Prompt: ') Tj (Provide a list of brainstorming prompts or questions related to [topic or) Tj T* 9 0 Td (problem] to stimulate creative thinking and generate a diverse range of ideas) Tj (') Tj (, then ') Tj (List 15-20 ideas for [your) Tj T* (problem].) Tj (') Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 125.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (6. Add the ideas to the Brainstorming Board. Then cluster them: group similar ideas and label each cluster with a) Tj T* 9 0 Td (clear theme - this is your affinity analysis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 92.36614 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (7. Use the Voting & Prioritisation section, which has voting enabled. Each learner votes on the ideas they believe) Tj T* 9 0 Td (should be built. Read off the top five by vote count.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 1907
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 757.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (8. Open ') Tj (MoSCoW with Sliders Template.xlsx) Tj (') Tj (. Prompt GenAI: ') Tj (Classify these requirements as Must have, Should) Tj T* 9 0 Td (have, Could have or Won) Tj (') Tj (t have for a first release, and justify each classification.) Tj (') Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 724.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (9. Override any classification your group disagrees with - GenAI systematically over-classifies things as ') Tj (Must) Tj T* 9 0 Td (have) Tj (') Tj (. Share your prioritised set with the class.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 693.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Check your work) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 659.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Check: Your workspace has personas, an empathy map, a problem statement, a clustered idea board with vote) Tj T* (counts, and a MoSCoW list where you changed at least one AI classification.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 647.8661 cm
+Q
+q
+1 0 0 1 57.02362 613.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Remember: GenAI gives you a fast first draft. Check every figure, source and assumption before the output) Tj T* (leaves your hands - you remain accountable for it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 592.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (\251 2026 Tertiary Infotech Academy Pte Ltd. All rights reserved.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+11 0 obj
+<<
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Author (Tertiary Infotech Academy Pte Ltd)
+/CreationDate (D\07220260912165424\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260912165424\05308\04700\047)
+/Subject (\050unspecified\051)
+/Title (Activity 6 Collect Requirements with GenAI and Design Thinking)
+/Trapped (\057False)
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000129 00000 n 
+0000000328 00000 n 
+0000006067 00000 n 
+0000006118 00000 n 
+0000006225 00000 n 
+0000006337 00000 n 
+0000006442 00000 n 
+0000006642 00000 n 
+0000008602 00000 n 
+trailer
+<<
+/Size 12
+/Root 1 0 R
+/Info 11 0 R
+>>
+startxref
+8993
+%%EOF

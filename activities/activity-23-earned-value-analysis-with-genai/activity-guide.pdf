@@ -1,0 +1,352 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 3 0 R 9 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5907
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 758.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 22 Tf 26 TL 4.026173 0 Td (Activity 23 Earned Value Analysis with GenAI) Tj T* -4.026173 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 737.8661 cm
+q
+.356863 .388235 .447059 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Activity 23 | Topic 03 | C013 | Version v1.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 681.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 32.4 Tm /F1 9.6 Tf 14 TL (Course: Generative AI for Project Management \(C013\) Topic 03: Managing Project Risks) Tj T* (with GenAI Learning outcome: LO3 - Measure project performance objectively and forecast the outcome. Tools:) Tj T* (GenAI tool | calculator) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 650.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 616.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Earned value is the one technique that tells you objectively whether you are ahead or behind, over or under. You) Tj T* (will compute it by hand first, then test whether GenAI gets it right.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 585.8661 cm
+q
+BT 1 0 0 1 0 4 Tm 19 TL /F2 15 Tf .086275 .105882 .14902 rg (What you) Tj (') Tj (ll produce) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 565.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (A complete earned value analysis with variances, indices and a forecast.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 534.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Activity files) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 515.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Activity guide PDF]\(./activity-guide.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 495.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Prompt sheet]\(./prompts.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 476.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Detailed instruction manual]\(./instruction-manual.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 456.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Mock data workbook]\(./mock-data.xlsx\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 425.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Core prompt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 407.8661 cm
+q
+.043137 .070588 .12549 rg
+n 0 -8 1025.1 28 re f*
+Q
+q
+.839216 .894118 1 rg
+BT 1 0 0 1 8 3.5 Tm /F3 8.5 Tf 12 TL (Using the supplied baseline, completion and actual-cost data, calculate PV, EV, AC, CV, SV, CPI, SPI, EAC and ETC. Show the formula and substitution for every result, then interpret the project status.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 376.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 330.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 31.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (1. Work this classic scenario by hand, individually. Task: develop and install ten printer drivers. Budget: $100,000) Tj T* 9 0 Td (\($10K per driver\). Time: 10 weeks \(1 driver per week\). At week 5: 4 drivers are complete and $47,500 has been) Tj T* (spent.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 297.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (2. Compute the three base values. PV = the budget for work SCHEDULED by now. EV = the budget for work) Tj T* 9 0 Td (ACTUALLY DONE. AC = what has actually been spent.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 264.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td -0.022736 Tw (3. Confirm your answers: PV = $50,000 \(5 drivers scheduled x $10K\). EV = $40,000 \(4 drivers done x $10K\). AC =) Tj T* 0 Tw 9 0 Td ($47,500.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 231.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (4. Compute the variances. Cost Variance CV = EV - AC = $40,000 - $47,500 = -$7,500 \(negative is bad - over) Tj T* 9 0 Td (budget\). Schedule Variance SV = EV - PV = $40,000 - $50,000 = -$10,000 \(negative is bad - behind schedule\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 198.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (5. Compute the indices. CPI = EV / AC = 40,000 / 47,500 = 0.84. SPI = EV / PV = 40,000 / 50,000 = 0.80. Both) Tj T* 9 0 Td (below 1 - over budget and behind schedule.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 165.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (6. Forecast the outcome. EAC = BAC / CPI = 100,000 / 0.84 = approximately $119,000. ETC = EAC - AC. State) Tj T* 9 0 Td (what you would tell the sponsor.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 132.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (7. NOW test GenAI. Give it the same scenario and ask for PV, EV, AC, CV, SV, CPI, SPI and EAC. Compare) Tj T* 9 0 Td (every figure against yours.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 99.36614 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (8. Where it differs, identify the error. GenAI commonly confuses EV with AC, or computes EAC without using CPI.) Tj T* 9 0 Td (This is precisely why you must be able to do this by hand.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 66.36614 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td -0.058545 Tw (9. Discuss as a group: the assessment is open book, but the arithmetic is yours. What is the minimum you must be) Tj T* 0 Tw 9 0 Td (able to compute without help?) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 1188
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 765.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Check your work) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 731.8661 cm
+q
+BT 1 0 0 1 0 18.4 Tm 14 TL /F1 9.6 Tf .086275 .105882 .14902 rg (Check: You can compute PV, EV, AC, CV, SV, CPI, SPI and EAC unaided for a fresh scenario, and you found at) Tj T* (least one error in the AI) Tj (') Tj (s version.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 719.8661 cm
+Q
+q
+1 0 0 1 57.02362 685.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Remember: GenAI gives you a fast first draft. Check every figure, source and assumption before the output) Tj T* (leaves your hands - you remain accountable for it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 664.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (\251 2026 Tertiary Infotech Academy Pte Ltd. All rights reserved.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+11 0 obj
+<<
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Author (Tertiary Infotech Academy Pte Ltd)
+/CreationDate (D\07220260912165424\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260912165424\05308\04700\047)
+/Subject (\050unspecified\051)
+/Title (Activity 23 Earned Value Analysis with GenAI)
+/Trapped (\057False)
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000129 00000 n 
+0000000328 00000 n 
+0000006287 00000 n 
+0000006338 00000 n 
+0000006445 00000 n 
+0000006557 00000 n 
+0000006662 00000 n 
+0000006862 00000 n 
+0000008103 00000 n 
+trailer
+<<
+/Size 12
+/Root 1 0 R
+/Info 11 0 R
+>>
+startxref
+8476
+%%EOF

@@ -1,0 +1,355 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 3 0 R 9 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5698
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 732.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 30 Tm /F2 22 Tf 26 TL 19.33817 0 Td (Activity 2 Business Case and Cost-Benefit) Tj T* 115.522 0 Td (Analysis with GenAI) Tj T* -134.8602 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 711.8661 cm
+q
+.356863 .388235 .447059 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Activity 2 | Topic 01 | C013 | Version v1.0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 641.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 46.4 Tm /F1 9.6 Tf 14 TL (Course: Generative AI for Project Management \(C013\) Topic 01: Project Initiation and) Tj T* (Planning with GenAI Learning outcome: LO1 - Establish the economic feasibility of a project using) Tj T* (GenAI-assisted analysis. Tools: GenAI tool | Business Model Canvas Studio \(alfredang.github.io/bcm\) | Cost) Tj T* (Benefit Analysis.xlsx | Business Case on a Page.docx) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 610.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 562.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 32.4 Tm /F1 9.6 Tf 14 TL (Before a project is authorised somebody has to prove it is worth doing. You will use GenAI to draft a cost-benefit) Tj T* (analysis and a one-page business case, then validate the business model behind it on the Business Model) Tj T* (Canvas Studio.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 531.8661 cm
+q
+BT 1 0 0 1 0 4 Tm 19 TL /F2 15 Tf .086275 .105882 .14902 rg (What you) Tj (') Tj (ll produce) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 511.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (A completed cost-benefit analysis, a one-page business case, and a validated 9-block Business Model Canvas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 480.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Activity files) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 461.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Activity guide PDF]\(./activity-guide.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 441.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Prompt sheet]\(./prompts.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 422.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Detailed instruction manual]\(./instruction-manual.pdf\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 402.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (- [Mock data workbook]\(./mock-data.xlsx\)) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 371.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Core prompt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 353.8661 cm
+q
+.043137 .070588 .12549 rg
+n 0 -8 989.4 28 re f*
+Q
+q
+.839216 .894118 1 rg
+BT 1 0 0 1 8 3.5 Tm /F3 8.5 Tf 12 TL (List the one-off and recurring costs, and the quantified annual benefits, of [your project] over 3 years. Present the result as a table with a column explaining how each figure will be verified.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 322.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 289.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td -0.120003 Tw 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (1. Form a group of 3-5. Download ') Tj (Cost Benefit Analysis.xlsx) Tj (' and ') Tj (Business Case on a Page.docx) Tj (' from the course) Tj T* 0 Tw 9 0 Td (template pack.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 256.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (2. Agree on a project scenario for your group - for example introducing a GenAI knowledge assistant for your) Tj T* 9 0 Td (customer service team.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 223.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (3. Prompt GenAI: ') Tj (List the one-off and recurring costs, and the quantified annual benefits, of [your project] over 3) Tj T* 9 0 Td (years. Present as a table with a column for how each figure would be verified.) Tj (') Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 190.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (4. Challenge the output with the Fact Check List pattern - ask it to separate figures it knows from figures it) Tj T* 9 0 Td (assumed. Replace every assumed figure with your own estimate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 171.3661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 4.1 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (5. Enter the validated figures into Cost Benefit Analysis.xlsx and read off the payback period and net benefit.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 138.3661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (6. Open the Business Model Canvas Studio at https://alfredang.github.io/bcm/ - one member clicks ') Tj (Create New) Tj T* 9 0 Td (Canvas) Tj (') Tj (, enters a name and canvas title, then shares the QR code or invite link so the rest of the group joins.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 91.86614 cm
+q
+BT 1 0 0 1 15 31.1 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (7. Prompt GenAI: ') Tj (Draft a Business Model Canvas for [your project]. Give me 2-3 sticky notes for each of the nine) Tj T* 9 0 Td (blocks: Key Partners, Key Activities, Key Resources, Value Propositions, Customer Relationships, Channels,) Tj T* (Customer Segments, Cost Structure, Revenue Streams.) Tj (') Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 2164
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.85098 .882353 .917647 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 7.5 Tf 9 TL ET
+.356863 .388235 .447059 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (Generative AI for Project Management | C013) Tj T* ET
+BT 1 0 0 1 520.4845 28.34646 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 757.8661 cm
+q
+BT 1 0 0 1 15 17.6 Tm -9 0 Td 13.5 TL /F1 9.4 Tf .086275 .105882 .14902 rg (8. Add the AI) Tj (') Tj (s suggestions as sticky notes in the matching blocks. Set each note) Tj (') Tj (s status to Draft. Use the \(i\)) Tj T* 9 0 Td (') Tj (Show guidance) Tj (' button on any block you are unsure about.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 724.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (9. As a group, review every note. Change the status to Validate for notes you have evidence for and Confirmed for) Tj T* 9 0 Td (notes you are certain of. Delete anything the AI invented that you cannot support.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 691.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 15 17.6 Tm /F1 9.4 Tf 13.5 TL -9 0 Td (10. Complete Business Case on a Page.docx using your validated numbers and canvas, and share your findings) Tj T* 9 0 Td (with the class.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 660.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Check your work) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 626.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Check: Your canvas has all nine blocks populated, every note carries a Draft/Validate/Confirmed status, and your) Tj T* (business case states a payback period you can defend with your own figures.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 614.8661 cm
+Q
+q
+1 0 0 1 57.02362 580.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 18.4 Tm /F1 9.6 Tf 14 TL (Remember: GenAI gives you a fast first draft. Check every figure, source and assumption before the output) Tj T* (leaves your hands - you remain accountable for it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 559.8661 cm
+q
+.086275 .105882 .14902 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (\251 2026 Tertiary Infotech Academy Pte Ltd. All rights reserved.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+11 0 obj
+<<
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Author (Tertiary Infotech Academy Pte Ltd)
+/CreationDate (D\07220260912165424\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260912165424\05308\04700\047)
+/Subject (\050unspecified\051)
+/Title (Activity 2 Business Case and Cost\055Benefit Analysis with GenAI)
+/Trapped (\057False)
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000129 00000 n 
+0000000328 00000 n 
+0000006078 00000 n 
+0000006129 00000 n 
+0000006236 00000 n 
+0000006348 00000 n 
+0000006453 00000 n 
+0000006653 00000 n 
+0000008870 00000 n 
+trailer
+<<
+/Size 12
+/Root 1 0 R
+/Info 11 0 R
+>>
+startxref
+9263
+%%EOF
